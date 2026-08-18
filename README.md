@@ -53,6 +53,14 @@ Cross-platform VPN service with passwordless authentication, subscriptions, paym
 - External API, payment, email, and ERP integrations
 - Automated tests, Docker environments, and CI pipelines
 
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lisovtcoff-hub/Lisovtcoff-hub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lisovtcoff-hub/Lisovtcoff-hub/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Lisovtcoff-hub/Lisovtcoff-hub/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Current goal
 
 I am open to remote backend engineering opportunities with international product teams, including employment and contractor/B2B formats.
