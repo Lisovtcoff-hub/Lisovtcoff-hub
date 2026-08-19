@@ -6,7 +6,6 @@
 
 Backend developer focused on API design, business-critical workflows, database-backed systems, integrations, and maintainable delivery pipelines.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lisovtcoff--hub-181717?logo=github)](https://github.com/Lisovtcoff-hub)
 ![Remote](https://img.shields.io/badge/Open%20to-Remote%20Worldwide-2ea44f)
 
 </div>
