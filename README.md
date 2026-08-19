@@ -65,6 +65,4 @@ Cross-platform VPN service with passwordless authentication, subscriptions, paym
 
 I am open to remote backend engineering opportunities with international product teams, including employment and contractor/B2B formats.
 
-## Contact
 
-GitHub: [Lisovtcoff-hub](https://github.com/Lisovtcoff-hub)
